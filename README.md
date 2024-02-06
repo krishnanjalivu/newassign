@@ -6,3 +6,5 @@ and save the file as the name of the class ie price and PRESS F5 inorder to run 
 <br>
 press f5 in order to run.
 <br>if still it is not working just copy the code on to a online compiler like programiz https://www.programiz.com/javascript/online-compiler/ to check the output
+<br>
+once you are able to run the code enter the quantity of each product and whether you want it to be gift wrapped and it will print the total amount after calculation
