@@ -1,3 +1,4 @@
+
 class DiscountName {
   constructor(discount, name) {
     this.discount = discount;
